@@ -2,7 +2,7 @@
 
 > An Android Mobile application using the marvel APIs 
 
-[ANDROID DEMO APP](https://microapp-donation.herokuapp.com/)
+[ANDROID DEMO APP](https://github.com/mohammedaliyu136/marvel_comic_flutter_app/blob/master/apk/marvel_comic.apk?raw=true)
 
 
 # Features
